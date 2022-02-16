@@ -4,7 +4,7 @@
 ### projects:
 
 
-- [ ] QuizApp
+- [X] QuizApp
 - [ ] To-Do list
 - [ ] UI library
 - [ ] Portfolio
